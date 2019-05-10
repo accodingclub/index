@@ -2,16 +2,16 @@
 #
 
 # Site settings
-title: Spectral
+title: AC Coding10 Club
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+  AC Coding10 Club  
+  at Algonqun College  
+  Ottawa, ON
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/index" # the subpath of your site, e.g. /blog
+url: "https://accodingclub.github.io" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
